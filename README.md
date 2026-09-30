@@ -11,7 +11,7 @@ This project was originally developed in **2021 as my high school graduation pro
 
 The goal of the project was to build a physical prototype of an electronic lock that authenticates a user using a fingerprint sensor and controls a mechanical locking mechanism with a servo motor.
 
-![Prototype](images/prototype.jpg)
+![Prototype](prototype.jpg)
 
 ## How It Works
 
@@ -52,7 +52,7 @@ The reconstruction preserves the documented behavior and structure of the origin
 
 The original graduation thesis is available in:
 
-`docs/maturski-rad.pdf`
+`maturski-rad.pdf`
 
 The document contains the project description, hardware overview, fingerprint sensor explanation, circuit/wiring diagram, prototype construction, operating principle, and the Arduino code preserved from the original project.
 
