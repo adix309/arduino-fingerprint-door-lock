@@ -2,7 +2,7 @@
 
 A fingerprint-controlled electronic door lock built with an **Arduino UNO**, an optical fingerprint sensor, and an **SG90 servo motor**.
 
-This project was originally developed in **2021 as my high school graduation project (maturski rad)** at the Technical High School in Bugojno, Bosnia and Herzegovina.
+***This project was originally developed in **2021 as my high school graduation project (maturski rad)** at the Technical High School in Bugojno, Bosnia and Herzegovina.***
 
 The goal of the project was to build a physical prototype of an electronic lock that authenticates a user using their fingerprint and controls a mechanical locking mechanism using a servo motor.
 
